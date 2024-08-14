@@ -1,0 +1,5 @@
+{
+    "watch": ["app", "config", "routes", "resources"],
+    "ext": "php,js,css,blade.php",
+    "exec": "php artisan cache:clear-all"
+}
